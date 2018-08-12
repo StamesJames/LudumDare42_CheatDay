@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 6a68403f7e52f7c4aabf5f19e847bc23
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: springbrunnen_0
+    21300002: springbrunnen_1
+    21300004: springbrunnen_2
+    21300006: springbrunnen_3
+    21300008: springbrunnen_4
+    21300010: springbrunnen_5
+    21300012: springbrunnen_6
+    21300014: springbrunnen_7
+    21300016: springbrunnen_8
+    21300018: springbrunnen_9
+    21300020: springbrunnen_10
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: springbrunnen_0
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 3022
+        width: 892
+        height: 1203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.410236, y: 601.5}
+        - {x: -33.26932, y: 601.5}
+        - {x: -236.77208, y: 505.1645}
+        - {x: -328.83286, y: 398.5805}
+        - {x: -445.12015, y: 153.9218}
+        - {x: -445.12015, y: -8.376552}
+        - {x: -268.26657, y: -536.4518}
+        - {x: -88.99032, y: -601.5}
+        - {x: 99.97653, y: -601.5}
+        - {x: 334.9738, y: -514.6505}
+        - {x: 446, y: -119.80527}
+        - {x: 435, y: 110.5}
+        - {x: 369, y: 127.5}
+        - {x: 279.25278, y: 500.31976}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b82bba4e9134409ff9a72011ad834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springbrunnen_1
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 3901
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c4f883293163642966674ff27af33f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springbrunnen_2
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 3754
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44f1bcffef20534193e2d057805ad7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springbrunnen_3
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1540
+        width: 886
+        height: 1208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.454426, y: 604}
+        - {x: -300.10083, y: 541.9863}
+        - {x: -443, y: 202.85548}
+        - {x: -443, y: 42.979504}
+        - {x: -338.86325, y: -87.82812}
+        - {x: -285.5649, y: -603.7915}
+        - {x: 443, y: -603.7915}
+        - {x: 442, y: 127}
+        - {x: 375, y: 134}
+        - {x: 292, y: 604}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d026d5985e212a448b395815f1f804b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springbrunnen_4
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2419
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dedd7ae2f2df7408f006c8f816b303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springbrunnen_5
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 2412
+        width: 106
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51eb8951bb3d9c47a0026f4db6c3a87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springbrunnen_6
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 2306
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257d890a3bcdfd244871acf710bd891e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springbrunnen_7
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 155
+        width: 892
+        height: 1211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 341.19617, y: 517.1433}
+        - {x: 140.11604, y: 605.5}
+        - {x: -126.37566, y: 605.5}
+        - {x: -390.44473, y: 400.86987}
+        - {x: -446, y: 250.68333}
+        - {x: -446, y: -117.51589}
+        - {x: -242.66296, y: -548.6966}
+        - {x: -53.696106, y: -604.41095}
+        - {x: 77.1271, y: -604.41095}
+        - {x: 210.37296, y: -536.5848}
+        - {x: 292.74313, y: -478.44803}
+        - {x: 446, y: -127.205345}
+        - {x: 440, y: 115.5}
+        - {x: 390, y: 124.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c68208cdd771f444a1b34e8962b4ac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springbrunnen_8
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1008
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9165a521024c31f47a12f8d15c09eccd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springbrunnen_9
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 959
+        width: 117
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9d166a57e9d71489ea354da4df4f5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: springbrunnen_10
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 912
+        width: 102
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21e5ec45253dab49b33fa432097a551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ae0ba4c2b15db5c468384c34412db297
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

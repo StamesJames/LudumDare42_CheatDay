@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 389d55af29c69474195386ea45643f59
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fett_0
+    21300002: fett_1
+    21300004: kopf_einatmen
+    21300006: fett_3
+    21300008: fett_4
+    21300010: fett_5
+    21300012: fett_6
+    21300014: fett_7
+    21300016: fett_8
+    21300018: fett_9
+    21300020: fett_10
+    21300022: fett_11
+    21300024: fett_12
+    21300026: fett_13
+    21300028: fett_14
+    21300030: fett_15
+    21300032: fett_16
+    21300034: fett_17
+    21300036: fett_18
+    21300038: fett_2
+    21300040: fett_19
+    21300042: fett_20
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fett_0
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 11893
+        width: 1634
+        height: 1876
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6429ec634db4dd4ea4292cfcf20d58c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_1
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 13050
+        width: 887
+        height: 768
+      alignment: 9
+      pivot: {x: 0.652611, y: 0.09913508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffedc719f8384245ba22d95fad8bc22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopf_einatmen
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 13059
+        width: 856
+        height: 776
+      alignment: 9
+      pivot: {x: 0.652611, y: 0.09913508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff71c5618ed04242b0a62060fb6266f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_3
+      rect:
+        serializedVersion: 2
+        x: 5796
+        y: 13746
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43f5f0df3f53de4f8d47d04ede12090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_4
+      rect:
+        serializedVersion: 2
+        x: 5422
+        y: 13319
+        width: 375
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5616393, y: 0.78099954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614ad80f61d6e8e45ab6785c3754c756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_5
+      rect:
+        serializedVersion: 2
+        x: 6695
+        y: 13464
+        width: 212
+        height: 189
+      alignment: 9
+      pivot: {x: 0.49999538, y: 0.707796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8e1f4d85654324fb78a93a174851e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_6
+      rect:
+        serializedVersion: 2
+        x: 7522
+        y: 12911
+        width: 841
+        height: 740
+      alignment: 9
+      pivot: {x: 0.652611, y: 0.09913508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3decf32e35b0a0c4d9207ad19357cd01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_7
+      rect:
+        serializedVersion: 2
+        x: 5653
+        y: 13249
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c329c581578ad459a7ba54256e8d23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_8
+      rect:
+        serializedVersion: 2
+        x: 5668
+        y: 13244
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b545e204dcc1a144ab9c23b008e2b2f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_9
+      rect:
+        serializedVersion: 2
+        x: 5456
+        y: 12913
+        width: 298
+        height: 323
+      alignment: 9
+      pivot: {x: 0.17680861, y: 0.8458815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d424259c2b85304082d9c345796769c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_10
+      rect:
+        serializedVersion: 2
+        x: 6651
+        y: 12957
+        width: 290
+        height: 183
+      alignment: 9
+      pivot: {x: 0.37187332, y: 0.7457896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193093a84a8c2e94d873fa702cac39eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_11
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 12808
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e273cb7ff027c4da816eef50d1cc64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_12
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 11956
+        width: 1412
+        height: 773
+      alignment: 9
+      pivot: {x: 0.49765405, y: 0.82262313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af38edfaa95d2164683a1a8e36b2b1e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_13
+      rect:
+        serializedVersion: 2
+        x: 5786
+        y: 12417
+        width: 285
+        height: 288
+      alignment: 9
+      pivot: {x: 0.24172321, y: 0.5692037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6434dba194316b4682dbd9c8ed8d5c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_14
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 12423
+        width: 312
+        height: 309
+      alignment: 9
+      pivot: {x: 0.3271328, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26294632597997488e39a12400a8942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_15
+      rect:
+        serializedVersion: 2
+        x: 5791
+        y: 12093
+        width: 294
+        height: 307
+      alignment: 9
+      pivot: {x: 0.18551366, y: 0.7133264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab74c5d012ca264593f423f168c3065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_16
+      rect:
+        serializedVersion: 2
+        x: 6243
+        y: 12088
+        width: 288
+        height: 308
+      alignment: 9
+      pivot: {x: 0.2057156, y: 0.6751091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1e3689a8bdc2542962da23c9a6bf85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_17
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 10355
+        width: 1637
+        height: 1181
+      alignment: 9
+      pivot: {x: 0.50923395, y: 0.06058078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9699c54501239524a8e20a169b84f7ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_18
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 10363
+        width: 1635
+        height: 1192
+      alignment: 9
+      pivot: {x: 0.5277353, y: 0.06463582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0de9cc88b1206f4b8b062d85e5bf960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_2
+      rect:
+        serializedVersion: 2
+        x: 6109
+        y: 12631
+        width: 401
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389b5d4fbed89b7459cb6ffea94a0612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_19
+      rect:
+        serializedVersion: 2
+        x: 5747
+        y: 12593
+        width: 131
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8e3e3ef1d469241b855f64f1799ac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fett_20
+      rect:
+        serializedVersion: 2
+        x: 7284
+        y: 13090
+        width: 47
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ede621a3cdff7749b69667730933e90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 70dc03ddb8c81d34a9dee04bb4c527b4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

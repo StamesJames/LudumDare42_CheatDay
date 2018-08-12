@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: d7531ef552a0fcf45b22d279fab1aae6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hcl_finished_0
+    21300002: hcl_finished_1
+    21300004: hcl_finished_2
+    21300006: hcl_finished_3
+    21300008: hcl_finished_4
+    21300010: hcl_finished_5
+    21300012: hcl_finished_6
+    21300014: hcl_finished_7
+    21300016: hcl_finished_8
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hcl_finished_0
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 3001
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8a241a0a56fb844aaaa0932f419b49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hcl_finished_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2375
+        width: 1641
+        height: 1037
+      alignment: 9
+      pivot: {x: 0.7605115, y: 0.035468664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea9115aafe91d44d806f089c9b2bf54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hcl_finished_2
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2985
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5230ccbc58acf4884edfc494ffe5ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hcl_finished_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1205
+        width: 991
+        height: 1011
+      alignment: 9
+      pivot: {x: 0.53588957, y: 0.09949346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548f63547c7ca0947a20c0cc02687d3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hcl_finished_4
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 376
+        width: 1179
+        height: 1111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -320.6023, y: 555.5}
+        - {x: -565.5194, y: 355.4453}
+        - {x: -589.4973, y: 213.27538}
+        - {x: -589.4973, y: -281.75003}
+        - {x: -298.3371, y: -555.5}
+        - {x: 304.53586, y: -555.5}
+        - {x: 589.5, y: -292.02737}
+        - {x: 589.5, y: 334.89062}
+        - {x: 225.75131, y: 555.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc75fd2636f88f41abd48c63275179a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hcl_finished_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 829
+        width: 31
+        height: 313
+      alignment: 9
+      pivot: {x: 0.5573593, y: 0.06824647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a560265e2eb72e4e9d90ad19c21cf10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hcl_finished_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 523
+        width: 154
+        height: 163
+      alignment: 9
+      pivot: {x: 0.74779284, y: 0.7675553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf1c3e6dc4b90d48a366c15746219c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hcl_finished_7
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 280
+        width: 182
+        height: 167
+      alignment: 9
+      pivot: {x: 0.14056396, y: 0.79379106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528e76521ee0ebb4f96eaaefa2d78f3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hcl_finished_8
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 89
+        width: 193
+        height: 123
+      alignment: 9
+      pivot: {x: 0.38701665, y: 0.7216044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260b5de1282157848965621559ba05c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: af9a9ff33a466c34180b2f7aed7c2e61
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
