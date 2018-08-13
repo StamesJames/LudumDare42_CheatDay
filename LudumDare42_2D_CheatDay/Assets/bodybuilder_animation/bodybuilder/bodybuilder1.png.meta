@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: c36c553091686f249b8008807e6e8195
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bodybuilder1_0
+    21300002: bodybuilder1_1
+    21300004: bodybuilder1_2
+    21300006: bodybuilder1_3
+    21300008: bodybuilder1_4
+    21300010: bodybuilder1_5
+    21300012: bodybuilder1_6
+    21300014: bodybuilder1_7
+    21300016: bodybuilder1_8
+    21300018: bodybuilder1_9
+    21300020: bodybuilder1_10
+    21300022: bodybuilder1_11
+    21300024: bodybuilder1_12
+    21300026: bodybuilder1_13
+    21300028: bodybuilder1_14
+    21300030: bodybuilder1_15
+    21300032: bodybuilder1_16
+    21300034: bodybuilder1_17
+    21300036: bodybuilder1_18
+    21300038: bodybuilder1_19
+    21300040: bodybuilder1_20
+    21300042: bodybuilder1_21
+    21300044: bodybuilder1_22
+    21300046: bodybuilder1_23
+    21300048: bodybuilder1_24
+    21300050: bodybuilder1_25
+    21300052: bodybuilder1_26
+    21300054: bodybuilder1_27
+    21300056: bodybuilder1_28
+    21300058: bodybuilder1_29
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bodybuilder1_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3713
+        width: 1280
+        height: 1210
+      alignment: 9
+      pivot: {x: 0.5881507, y: 0.039829627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf95175c649a4540a8e5a44dcae02b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_1
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 3696
+        width: 1281
+        height: 1208
+      alignment: 9
+      pivot: {x: 0.5880818, y: 0.039067756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a80ce688138bc9409edf323742a8257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_2
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3488
+        width: 120
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf3caf79e8470146b3cf40596757b0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_3
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3488
+        width: 26
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6862a20f2cc5fa64886595ade1fe2669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_4
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 2971
+        width: 427
+        height: 536
+      alignment: 9
+      pivot: {x: 0.6148893, y: 0.056099962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdabc4d4cd41bca4ab5ead7fbe8c2d39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_5
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 3415
+        width: 207
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e9c82921e6fad4aafdad40e3eea920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_6
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 3461
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c076227cdf7447bf15aa956842dfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_7
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 3505
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d341af48f14689545a69566b3bdbc5d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_8
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 3466
+        width: 122
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9478a3dfaae71644b8f2d22089f30c2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_9
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 3496
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a5eb0a0fa8207468fcc572223cbbc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_10
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 3437
+        width: 113
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90009ccad4678da44b31c841203e6e34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3273
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b437ce17d49b5e48bb946e0b3e7f5bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_12
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 3190
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e47fe8aa39acf48aace5aa984e6de2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_13
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 3270
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ebb8fcae7d359438294f3fb1512c77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2528
+        width: 499
+        height: 679
+      alignment: 9
+      pivot: {x: 0.45678008, y: 0.92879325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f14f12e9d9a9a499a578e8aad134e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_15
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 2606
+        width: 362
+        height: 590
+      alignment: 9
+      pivot: {x: 0.5, y: 0.91158634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04bf1244c3b0ae40aba8228adcd2ff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_16
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 2584
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e547f610ac6eb46a5d1dc951a8623d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2398
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8479069859366ab4d8e9f59b11d6886c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_18
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2033
+        width: 546
+        height: 446
+      alignment: 9
+      pivot: {x: 0.07832258, y: 0.8860838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edce0f0919180942af97758277be279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_19
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 2008
+        width: 458
+        height: 533
+      alignment: 9
+      pivot: {x: 0.69815904, y: 0.9003778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26284f353cc93248b3fbe82913c071b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_20
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1978
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bf97f5a5725e14981b8ba1f0a45736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_21
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1724
+        width: 181
+        height: 206
+      alignment: 9
+      pivot: {x: 0.21541026, y: 0.7976809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fc060fa9ee2d94bb994cd63cc65d0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_22
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1259
+        width: 225
+        height: 427
+      alignment: 9
+      pivot: {x: 0.41278604, y: 0.93658006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83463ba9c3c2c4c48902616e8d25cc5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_23
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1157
+        width: 337
+        height: 443
+      alignment: 9
+      pivot: {x: 0.26708442, y: 0.9374229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b36395e49b228041acd6608c4d94795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_24
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 874
+        width: 193
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bab14afbecf9a4f854e0b97d9df364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_25
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 990
+        width: 205
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c8cd89d2d68cd47aac7914f049e23b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_26
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 789
+        width: 183
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728ff87ecadc8fa4098ebdf3f49a0372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_27
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 837
+        width: 192
+        height: 145
+      alignment: 9
+      pivot: {x: 0.67885715, y: 0.77066314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375406f7d5463df46b1a1c1d9c23cd4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 309
+        width: 254
+        height: 263
+      alignment: 9
+      pivot: {x: 0.49034297, y: 0.71451163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684dfc75fbf57824493b0cf83ffd3454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodybuilder1_29
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 327
+        width: 222
+        height: 275
+      alignment: 9
+      pivot: {x: 0.41160735, y: 0.66055244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb8b6feea3035a4a9b0e573d03f209a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fa8ea4db0213f1048b728857c1b9ddf1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

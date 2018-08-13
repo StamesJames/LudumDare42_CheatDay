@@ -11,6 +11,13 @@ public class ConscienceController : MonoBehaviour {
     public float speedGain;
     public float moveForce;
     public float moveForceGain;
+    public AudioSource audioSource;
+    public float minVolumeRange = 100;
+    public float maxVolumeRange = 30;
+
+
+    private Vector3 ghostToPlayer;
+    private float distance;
 
     #endregion
 
@@ -24,13 +31,39 @@ public class ConscienceController : MonoBehaviour {
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void Update()
     {
         maxSpeed += Time.deltaTime * speedGain;
         moveForce += Time.deltaTime * moveForceGain;
-        direction = ( player.transform.position - transform.position).normalized;
+
+        ghostToPlayer = player.transform.position - transform.position;
+
+        direction = ghostToPlayer.normalized;
+
+        distance = ghostToPlayer.magnitude;
+
+        if (distance <= maxVolumeRange)
+        {
+            audioSource.volume = 1f;
+        }
+        else if (distance >= minVolumeRange)
+        {
+            audioSource.volume = 0f;
+        }
+        else
+        {
+            audioSource.volume = (minVolumeRange - distance) / minVolumeRange;
+        }
+
+        Debug.Log("Distance is: " + distance);
+        Debug.Log("volume is: " + audioSource.volume);
+
+
+
     }
 
     private void FixedUpdate()

@@ -15,8 +15,9 @@ public class GameManager : MonoBehaviour {
     #region public variables
 
     public GameObject player;
-    public Slider kalorieLevelSlider;
+    public GameObject conscienceObject;
     public float maxKalorieLevel;
+    public float conscienceStartDistance;
     public TextMeshProUGUI scoreText;
     public TextMeshProUGUI gameOverText;
     public GameObject pauseMenu;
@@ -26,7 +27,10 @@ public class GameManager : MonoBehaviour {
     public string stomachDeathText;
     public string gutDeathText;
     public string conscienceDeathText;
-
+    public string poopDeathText;
+    public AudioClip DeathSound;
+    public TextMeshProUGUI highScoreText;
+    public GameObject newHighScoreMenu;
     #endregion
 
     #region private variales
@@ -34,6 +38,8 @@ public class GameManager : MonoBehaviour {
     private float currentKalorieLevel;
     private bool gameOver = false;
     private List<FoodSpawn> emptyFoodSpawns = new List<FoodSpawn>();
+    private AudioSource audioScource;
+
     #endregion
 
     private void Awake()
@@ -52,9 +58,12 @@ public class GameManager : MonoBehaviour {
     private void Start()
     {
         currentKalorieLevel = 0f;
-        kalorieLevelSlider.minValue = 0f;
-        kalorieLevelSlider.maxValue = maxKalorieLevel;
         scoreText.text = "";
+
+        Vector2 conscienceDirection = Random.insideUnitCircle.normalized;
+        Instantiate(conscienceObject, player.transform.position + new Vector3 (conscienceDirection.x, conscienceDirection.y, 0f) * conscienceStartDistance, Quaternion.identity);
+
+        audioScource = GetComponent<AudioSource>();
 
         StartGameSetUp();
 
@@ -87,18 +96,12 @@ public class GameManager : MonoBehaviour {
 
     public void UpdateKalorieSlider()
     {
-        if (currentKalorieLevel <= maxKalorieLevel)
-        {
-            kalorieLevelSlider.value = currentKalorieLevel;
-        }
-        else
-        {
-            scoreText.text = "Score: " + currentKalorieLevel.ToString();
-        }
+            scoreText.text = "Score: " + currentKalorieLevel.ToString();     
     }
 
     public void DieBecauseOfStomach()
     {
+        UpdateHighScore();
         gameOverText.text = stomachDeathText;
         gameOver = true;
         gameOverMenu.SetActive(true);
@@ -108,6 +111,7 @@ public class GameManager : MonoBehaviour {
 
     public void DieBecauseOfGut()
     {
+        UpdateHighScore();
         gameOverText.text = gutDeathText;
         gameOver = true;
         gameOverMenu.SetActive(true);
@@ -117,11 +121,41 @@ public class GameManager : MonoBehaviour {
 
     public void DieBecuaseConscience()
     {
+        UpdateHighScore();
         gameOverText.text = conscienceDeathText;
         gameOver = true;
         gameOverMenu.SetActive(true);
         Time.timeScale = 0f;
         Debug.Log("wegen Conscience gedieedet");
+    }
+
+    public void DieBecausePoop()
+    {
+        UpdateHighScore();
+        gameOverText.text = poopDeathText;
+        gameOver = true;
+        gameOverMenu.SetActive(true);
+        Time.timeScale = 0f;
+        Debug.Log("wegen Conscience gedieedet");
+    }
+
+    public void UpdateHighScore()
+    {
+        if (PlayerPrefs.GetInt("HighScore", 0) < currentKalorieLevel)
+        {
+            PlayerPrefs.SetInt("HighScore", (int) currentKalorieLevel);
+            newHighScoreMenu.SetActive(true);
+        }
+        else
+        {
+            highScoreText.text = "Highscore: \n " + PlayerPrefs.GetString("HighScoreName", " ") + " " + PlayerPrefs.GetInt("HighScore", 0).ToString(); 
+        }
+        audioScource.PlayOneShot(DeathSound, 5);
+    }
+
+    public void UpdateHighScoreText()
+    {
+        highScoreText.text = "Highscore: \n " + PlayerPrefs.GetString("HighScoreName", " ") + " " + PlayerPrefs.GetInt("HighScore", 0).ToString();
     }
 
     private void StartGameSetUp()
@@ -139,5 +173,6 @@ public class GameManager : MonoBehaviour {
             emptyFoodSpawns.RemoveAt(randomInt);
         }
     }
+
 
 }
